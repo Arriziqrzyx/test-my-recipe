@@ -9,7 +9,7 @@ Ini adalah proyek pengujian untuk aplikasi resep menggunakan React Testing Libra
 1. Clone repositori:
    ```bash
    git clone https://github.com/Arriziqrzyx/test-my-recipe
-   cd my-recipe
+   cd test-my-recipe
    ```
 2. Install dependencies:
 
